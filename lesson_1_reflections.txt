@@ -1,0 +1,12 @@
+The computer actually helped me saving a lot of time and frustrating moments by scanning through the document in less than one second.
+This was really useful because otherwise I would have wasted a lot of time by searching the error.
+Fortunately doing this was really easy. I like the Eingabeaufforderung of Windows. I've never used this function before.
+I think a long time ago it was really time consuming scanning your previous versions and recognizing all the changes the programmer made.
+This is really useful and efficient.
+Pros: you can commit manually whats important instead letting save your changes by the computer, it's easy and fast
+Cons: you could forget to commit a change
+Git is helping programmers to keep track of changes in their code. Google Docs just saves documents that aren't connected.
+git log shows all the commits made
+git diff compares two commits by using their ids
+I can always downgrade to an older version of my code. Knowing this makes me feeling more adventurous.
+I will test some changes in the code of my Android app.
